@@ -26,8 +26,5 @@ I'm currently expanding my expertise in:
 
 Let's connect and discuss exciting opportunities or collaborations! Feel free to explore my repositories for more projects and contributions.
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](link-to-your-github-stats-image)
 
 
