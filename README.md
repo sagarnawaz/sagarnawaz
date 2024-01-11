@@ -20,9 +20,9 @@ I'm currently expanding my expertise in:
 
 ## 📫 Let's Connect
 
-- **GitHub:** [Your GitHub Profile](https://github.com/sagarnawaz)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sagar-nawaz-12081223a/)
-- **Portfolio:** [Your Portfolio Website](https://snazzy-lolly-d9bde5.netlify.app/)
+- **GitHub:** [GitHub Profile](https://github.com/sagarnawaz)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sagar-nawaz-12081223a/)
+- **Portfolio:** [Portfolio Website](https://snazzy-lolly-d9bde5.netlify.app/)
 
 Let's connect and discuss exciting opportunities or collaborations! Feel free to explore my repositories for more projects and contributions.
 
