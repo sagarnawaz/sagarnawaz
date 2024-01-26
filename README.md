@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about crafting exceptional user exp
 
 ## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript , Nodejs
-- **Frontend Frameworks:** React, Bootstrap
+- **Languages:** HTML, CSS, JavaScript, Nodejs
+- **Frontend Frameworks:** React, Tailwind CSS
 - **Version Control:** Git
 
 ## 🌱 Currently Exploring
