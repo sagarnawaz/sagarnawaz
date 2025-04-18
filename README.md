@@ -21,7 +21,7 @@ I am a passionate **Frontend Developer** with a knack for crafting seamless and 
 | **Category**       | **Tech Stack**                              |
 |---------------------|--------------------------------------------|
 | **Frameworks**      | React, Next.js, Vue.js                    |
-| **Styling**         | Tailwind CSS, SCSS, Material-UI           |
+| **Styling**         | Tailwind CSS, Bootstrap     |
 | **Build Tools**     | Webpack, Vite, Babel                      |
 | **Version Control** | Git, GitHub, GitLab                       |
 | **Testing**         | Jest, React Testing Library, Cypress      |
