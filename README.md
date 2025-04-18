@@ -1,30 +1,48 @@
-# [Sagar Nawaz]
+# 👋 Hi there, I'm Sagar Nawaz!
 
-## Frontend Developer | JavaScript
+I am a passionate **Frontend Developer** with a knack for crafting seamless and user-friendly web experiences. I love turning complex challenges into elegant, efficient, and interactive solutions.
 
-Welcome to my GitHub profile! I'm passionate about crafting exceptional user experiences and building visually appealing web applications. With a strong foundation in frontend technologies, I'm dedicated to continuous learning and staying updated with the latest industry trends.
+---
 
-## 🚀 Skills
+## 🚀 About Me
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frontend Frameworks:** Nextjs, TailwindCSS
-- **Version Control:** Git
+- 🌟 **Expertise**: Frontend development with a focus on modern web technologies.
+- 💻 **Skills**: 
+  - **Languages**: JavaScript, TypeScript, HTML, CSS.
+  - **Frameworks/Libraries**: React, Next.js, Redux, TailwindCSS, Bootstrap.
+  - **Tools**: Git, Webpack, Vite.
+- 📖 **Learning**: Constantly exploring new technologies, currently diving deeper into Web3 and micro-frontend architectures.
+- 🌐 **Passion**: Building responsive, accessible, and performance-optimized web applications.
 
-## 🌱 Currently Exploring
+---
 
-I'm currently expanding my expertise in:
+## 🛠️ My Toolbox
 
-- Advanced React concepts
-- Responsive web design principles
-- React Native
+| **Category**       | **Tech Stack**                              |
+|---------------------|--------------------------------------------|
+| **Frameworks**      | React, Next.js, Vue.js                    |
+| **Styling**         | Tailwind CSS, SCSS, Material-UI           |
+| **Build Tools**     | Webpack, Vite, Babel                      |
+| **Version Control** | Git, GitHub, GitLab                       |
+| **Testing**         | Jest, React Testing Library, Cypress      |
 
-## 📫 Let's Connect
+---
 
-- **GitHub:** [GitHub Profile](https://github.com/sagarnawaz)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sagar-nawaz-12081223a/)
-- **Portfolio:** [Portfolio Website](https://snazzy-lolly-d9bde5.netlify.app/)
+## 📈 GitHub Stats
 
-Let's connect and discuss exciting opportunities or collaborations! Feel free to explore my repositories for more projects and contributions.
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarnawaz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnawaz&layout=compact&theme=radical)
 
+---
 
+## 🌱 Let's Connect!
 
+- 📫 **Email**: [sagarnawaz@example.com](mailto:sagarnawaz@example.com)
+- 💼 **Portfolio**: [sagarnawaz.dev](https://sagarnawaz.dev)
+- 💬 **LinkedIn**: [Sagar Nawaz](https://linkedin.com/in/sagarnawaz)
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+
+Feel free to reach out to collaborate on exciting projects or just to say hello! 🚀
