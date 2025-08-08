@@ -41,7 +41,7 @@ A passionate **Frontend Developer** from **Pakistan**, I love turning complex pr
 
 ## 🤝 Let's Connect
 
-- 📬 **Email**: [sagarnawaz@example.com](mailto:sagarnawaz44@gmail.com)  
+- 📬 **Email**: [sagarnawaz44@gmail.com](mailto:sagarnawaz44@gmail.com)  
 - 🌐 **Portfolio**: [sagarnawaz.dev](http://s-n-r.vercel.app/)  
 - 💼 **LinkedIn**: [linkedin.com/in/sagarnawaz](linkedin.com/in/sagar-nawaz-12081223a)  
 
