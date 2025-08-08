@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Assalamu Alaikum, I'm Sagar Nawaz! 🇵🇰
 
-<!--
-**sagarnawaz/sagarnawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Frontend Developer** from **Pakistan**, I love turning complex problems into smooth, responsive, and accessible digital experiences. Whether it’s web or mobile, I build with performance, creativity, and usability in mind.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 💻 **Role**: Frontend Engineer / UI Developer  
+- 🌍 **From**: Pakistan 🇵🇰  
+- 🧰 **Tech Stack**:  
+  - **Languages**: JavaScript, TypeScript, HTML, CSS  
+  - **Frameworks/Libraries**: React, Next.js, **React Native**, Redux  
+  - **Styling**: Tailwind CSS, Bootstrap  
+  - **Tools**: Git, Webpack, Vite  
+- 📱 **Mobile**: React Native, Expo  
+- 🧪 **Testing**: Jest, React Testing Library, Cypress  
+- 📚 **Currently Learning**: Web3, Micro-frontends  
+- 🌐 **Focus Areas**: Accessibility, Performance, UI/UX, DX  
+
+---
+
+## 🧰 Tech Toolbox
+
+| 🧩 **Category**     | 🔧 **Tools & Technologies**                             |
+|---------------------|--------------------------------------------------------|
+| ⚛️ Frameworks        | React, Next.js, Vue.js, **React Native**               |
+| 🎨 Styling           | Tailwind CSS, Bootstrap, CSS Modules                   |
+| ⚙️ Build Tools       | Vite, Webpack, Babel                                   |
+| 🔁 Version Control   | Git, GitHub, GitLab                                    |
+| ✅ Testing           | Jest, RTL, Cypress                                     |
+| 📱 Mobile            | React Native, Expo                                     |
+
+---
+
+## 📊 GitHub Stats
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarnawaz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnawaz&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+- 📬 **Email**: [sagarnawaz@example.com](mailto:sagarnawaz@example.com)  
+- 🌐 **Portfolio**: [sagarnawaz.dev](https://sagarnawaz.dev)  
+- 💼 **LinkedIn**: [linkedin.com/in/sagarnawaz](https://linkedin.com/in/sagarnawaz)  
+
+---
+
+> 🧠 *"Code is like humor. When you have to explain it, it’s bad." — Cory House*  
+> 🇵🇰 *Proudly building from Pakistan.*
+
+Let's build something great together. 💚
