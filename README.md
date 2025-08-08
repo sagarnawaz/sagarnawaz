@@ -6,7 +6,7 @@ A passionate **Frontend Developer** from **Pakistan**, I love turning complex pr
 
 ## 🧠 About Me
 
-- 💻 **Role**: Frontend Engineer / UI Developer  
+- 💻 **Role**: Frontend Engineer 
 - 🌍 **From**: Pakistan 🇵🇰  
 - 🧰 **Tech Stack**:  
   - **Languages**: JavaScript, TypeScript, HTML, CSS  
@@ -15,8 +15,7 @@ A passionate **Frontend Developer** from **Pakistan**, I love turning complex pr
   - **Tools**: Git, Webpack, Vite  
 - 📱 **Mobile**: React Native, Expo  
 - 🧪 **Testing**: Jest, React Testing Library, Cypress  
-- 📚 **Currently Learning**: Web3, Micro-frontends  
-- 🌐 **Focus Areas**: Accessibility, Performance, UI/UX, DX  
+- 📚 **Currently Learning**: Web3, Micro-frontends 
 
 ---
 
@@ -42,9 +41,9 @@ A passionate **Frontend Developer** from **Pakistan**, I love turning complex pr
 
 ## 🤝 Let's Connect
 
-- 📬 **Email**: [sagarnawaz@example.com](mailto:sagarnawaz@example.com)  
-- 🌐 **Portfolio**: [sagarnawaz.dev](https://sagarnawaz.dev)  
-- 💼 **LinkedIn**: [linkedin.com/in/sagarnawaz](https://linkedin.com/in/sagarnawaz)  
+- 📬 **Email**: [sagarnawaz@example.com](mailto:sagarnawaz44@gmail.com)  
+- 🌐 **Portfolio**: [sagarnawaz.dev](http://s-n-r.vercel.app/)  
+- 💼 **LinkedIn**: [linkedin.com/in/sagarnawaz](linkedin.com/in/sagar-nawaz-12081223a)  
 
 ---
 
