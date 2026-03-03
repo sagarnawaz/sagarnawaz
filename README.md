@@ -59,9 +59,9 @@ Cross-platform mobile apps using **React Native + Expo**, optimized for performa
 
 ## 📊 GitHub Stats
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarnawaz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarnawaz&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnawaz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnawaz&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
